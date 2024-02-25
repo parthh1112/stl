@@ -32,6 +32,7 @@ int main()
     // auto it = s.find(5);
     // cout<<*it<<endl;
 
+
     set<int> s = {4, 3, 5, 1, 7};
     for(auto it = s.begin(); it != s.end() ;it++)cout<<*it<<" ";cout<<endl;
     
